@@ -1,0 +1,1 @@
+This is a quick-and-dirty Go workspace that demos using go-app with gopherjs on the client side. All dependency repositories are defined as git submodules.
