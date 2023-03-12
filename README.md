@@ -3,6 +3,7 @@ This is a quick-and-dirty Go workspace that demos using go-app with gopherjs on 
 ```
 $ git clone git@github.com:nevkontakte/go-app-on-gopherjs.git
 $ cd go-app-on-gopherjs
+$ git submodule update --init
 $ go install -v ./gopherjs
 $ cd lofimusic
 $ make run
