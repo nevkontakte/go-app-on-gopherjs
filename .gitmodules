@@ -4,6 +4,3 @@
 [submodule "lofimusic"]
 	path = lofimusic
 	url = git@github.com:nevkontakte/lofimusic.git
-[submodule "gopherjs"]
-	path = gopherjs
-	url = git@github.com:gopherjs/gopherjs.git
